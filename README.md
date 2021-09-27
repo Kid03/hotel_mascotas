@@ -1,3 +1,2 @@
 # hotel_mascotas
-
-Edicion Pendiente
+node_modules no incluidos
